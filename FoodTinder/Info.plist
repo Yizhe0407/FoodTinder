@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>YelpAPIKey</key>
+	<string>3M6O3-zMWmI1C7QU_6ny-jU9_Dr_O2o2QXH2sIjl56QLpp4UeDlQiy_RIUHYLzJPxD6ybg-G93ODbHH_vSfi08Jk2B8P882prI4Ff86uOahXTY2E_22SCqnt1c9DaXYx</string>
+</dict>
+</plist>
